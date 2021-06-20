@@ -1,0 +1,3 @@
+﻿  cpuscheduling.c
+D:\VS_Projects\CPUScheduling\cpuscheduling.c(86,11): warning C4013: 'memcpy' undefined; assuming extern returning int
+  CPUScheduling.vcxproj -> D:\VS_Projects\CPUScheduling\Debug\CPUScheduling.exe
